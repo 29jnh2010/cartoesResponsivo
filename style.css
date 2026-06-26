@@ -1,0 +1,23 @@
+.caixote{
+    width: 350px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+
+.caixote img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.item h2{
+    display: flex;
+    justify-content: center
+}
+
+.item p{
+    text-align: justify;
+}

@@ -1,5 +1,5 @@
 .caixote{
-    width: 350px;
+    width: 310px;
     height: 500px;
     display: flex;
     justify-content: center;
@@ -15,9 +15,17 @@
 
 .item h2{
     display: flex;
-    justify-content: center
+    justify-content: center;
+    align-items: center;
 }
 
 .item p{
+    padding: 5px;
     text-align: justify;
+}
+
+button{
+    padding: 10px;
+    border-radius: 15px;
+    background-color:rgba(87, 153, 230, 0.747)
 }

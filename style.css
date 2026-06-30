@@ -1,5 +1,10 @@
+.caixa-cartoes{
+    display: flex;
+    justify-content: center;
+}
+
 .caixote{
-    width: 310px;
+    width: 400px;
     height: 500px;
     display: flex;
     justify-content: center;
@@ -14,13 +19,14 @@
 }
 
 .item h2{
+    font-size: 19px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .item p{
-    padding: 5px;
+    padding: 3px;
     text-align: justify;
 }
 
